@@ -21,7 +21,7 @@
 
 [Watch the video](https://youtu.be/M9cepsFsPxE?si=H9vOaWtW6GTHeI_K)
 
-## Roombs bot implementation using SLAM:
+## Roomba bot implementation using SLAM:
 
 - Graphical Illustration of SLAM:
 
